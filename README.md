@@ -1,1 +1,1 @@
-# jpbarezq.github.iotic-tac-toe-online
+# jpbarezq.github.io.tic-tac-toe-online
